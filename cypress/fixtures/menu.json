@@ -1,0 +1,13 @@
+[
+  { "name": "Admin", "path": "/admin/viewSystemUsers", "header": "Admin" },
+  { "name": "PIM", "path": "/pim/viewEmployeeList", "header": "PIM" },
+  { "name": "Leave", "path": "/leave/viewLeaveList", "header": "Leave" },
+  { "name": "Time", "path": "/time/viewEmployeeTimesheet", "header": "Time" },
+  { "name": "Recruitment", "path": "/recruitment/viewCandidates", "header": "Recruitment" },
+  { "name": "My Info", "path": "/pim/viewPersonalDetails", "header": "PIM" },
+  { "name": "Performance", "path": "/performance/searchEvaluatePerformanceReview", "header": "Performance" },
+  { "name": "Dashboard", "path": "/dashboard/index", "header": "Dashboard" },
+  { "name": "Directory", "path": "/directory/viewDirectory", "header": "Directory" },
+  { "name": "Claim", "path": "/claim/viewAssignClaim", "header": "Claim" },
+  { "name": "Buzz", "path": "/buzz/viewBuzz", "header": "Buzz" }
+]
